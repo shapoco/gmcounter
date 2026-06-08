@@ -2,6 +2,7 @@ build/
 release/
 tmp.*
 tmp.*/
+.pio/
 
 # KiCad
 *-backups/
