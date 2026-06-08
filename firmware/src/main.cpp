@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <SPI.h>
 #include <Adafruit_GFX.h>
 #include "AQM1248A.h"
